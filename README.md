@@ -12,6 +12,7 @@ for giving a try follow the link https://mlaqi.herokuapp.com/
 ----- Important Note -----
 • If you encounter this webapp not opening or throwing application error, it is occuring just because free dynos for this particular month provided by Heroku have been completely used. You can access the webpage on 1st of the next month.
 • Sorry for the inconvenience.
-__
-[visualisation on power bi]()
+
+---------------------------
+[visualisation on power bi](https://github.com/raviyadav44/AQI-PREDICTION/blob/main/aqi_analysis.pbix)
 
